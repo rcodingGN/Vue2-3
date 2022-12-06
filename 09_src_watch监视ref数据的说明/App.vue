@@ -1,7 +1,5 @@
 <template>
-	<Demo>
-		
-	</Demo>
+	<Demo/>
 </template>
 
 <script>
@@ -9,7 +7,6 @@
 	export default {
 		name: 'App',
 		components:{Demo},
-		
 	}
 </script>
 
